@@ -12,6 +12,6 @@ Unity version 2019.2.9f1
 #### Documentation
 Unity 2019.2 documentation available at https://docs.unity3d.com/Manual/index.html
 ### Leap Motion
-Leap Motion will be used for hand and finger tracking camera.
+Leap Motion will be used for hand and finger tracking camera. The Leap Motion SDK is free to develop, which is available at https://leapmotion.github.io/UnityModules/index.html
 ### VR Set
 HTC Vive Pro will be used as virtual reality device that projects virtual environment to the user.
